@@ -9,3 +9,7 @@ I added two headers to this page.
 const test = "test";
 console.log(test);
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
